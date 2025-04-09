@@ -1,0 +1,5 @@
+A Survey in Graph Processing Paradigms for HTAP Graph Databases
+---
+
+Graphs have been a well-researched topic for decades. Over that time span, various approaches and paradigms emerged to solve specific problems or improve upon a prior solution.One of these problems is that traditional relational databases are ill-equipped when it comes to describing complex relationships or handling data that evolves constantly. To address these caveats, graph databases were introduced in the 1960s. With the rise of big data, data analytics on a large scale have equally risen in importance. <br>
+<span style="opacity:0">te</span>Hybrid Transactional, and Analytical Processing (HTAP) databases are employed to perform real-time data analytics and can naturally benefit from a graph-based approach. In this paper, we first provide a comprehensive overview of the field of graph processing and subsequently discuss the applicability thereof on modern (HTAP) graph databases.
